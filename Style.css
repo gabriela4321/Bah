@@ -1,2 +1,15 @@
-root: {background-color:#ffff00
-  color: #002f52 }
+body {
+  background-color: #3c92fa
+  color: 
+  font-family:
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.principal {
+  background-image: url("gradiente-coracao_78370-478.avif");
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-items: center;
+  text-align: center;
+}
