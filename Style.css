@@ -1,15 +1,11 @@
 body {
-  background-color: #3c92fa
-  color: 
-  font-family:
-  font-size: 16px;
-  font-weight: 400;
+    background-color: aqua;
 }
 
-.principal {
-  background-image: url("gradiente-coracao_78370-478.avif");
-  background-repeat: no-repeat;
-  background-size: contain;
-  align-items: center;
-  text-align: center;
+h4 {
+    color:rgb(4, 189, 127);
+}
+
+h6 {
+    color:brown;
 }
